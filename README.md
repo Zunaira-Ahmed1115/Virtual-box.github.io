@@ -1,6 +1,6 @@
 ## 👩‍💻 Author
 **Zunaira Ahmed**  
-*Computer Science Student | Assembly Language Enthusiast*
+*Computer Science Student *
 
 # 🖥️ Virtual Network Setup using VirtualBox (Client-Server, FTP & Mail Server)
 
